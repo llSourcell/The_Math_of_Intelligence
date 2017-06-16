@@ -1,7 +1,7 @@
 # The_Math_of_Intelligence
 This is the Syllabus for Siraj Raval's new course "The Math of Intelligence"
 
-Each week has a short video (released on Friday) and an associated longer video (released on Wednesday)
+Each week has a short video (released on Friday) and an associated longer video (released on Wednesday). So each weeks short video is in bold and the longer video is underneath.
 
 ## Week 1 - First order optimization - derivative, partial derivative, convexity
  SVM Classification with gradient descent
