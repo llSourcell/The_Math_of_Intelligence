@@ -20,7 +20,8 @@ In this notebook, besides coding a **Gradient Descent** algorithm, other tasks a
 
 An overview of the data is done
 
-[data.png]
+![Data](https://github.com/alberduris/The_Math_of_Intelligence/raw/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/data.png)
+
 
 ### SSE - Sum of Squared Error
 
@@ -43,32 +44,28 @@ def SSE(m,b,data):
 
 An overview of the data with a fitting line
 
-[data_line.png]
+![Data plus fitting line](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/data_line.png)
 
 ### 3D Visualize Gradient Descent 
 
 Each point in this two-dimensional space represents a line. The height of the function at each point is the error value for that line.
 
-[gd.png]
+![Gradient Descent](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/gradient_descent_1.png)
 
 ### Live plot - Gradient Search & Intermediate lines
 
 The current location of the **gradient descent search** and the path taken to get there and the **corresponding line** for the current search location. 
 
-[]
+![Gradient Search & Intermediate Lines](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/live_plot_gs_il.png)
 
 ### Live plot - Error
 
 The error changing as we move toward the minimum.
 
-[]
+![Error](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/live_error.png)
 
+### References
 
+<a href="https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/">Siraj Raval - Youtube - Intro - The Math of Intelligence</a>
 
-
-
-
-
-
-
-
+<a href="https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/">An Introduction to Gradient Descent and Linear Regression - MATT NEDRICH</a>
