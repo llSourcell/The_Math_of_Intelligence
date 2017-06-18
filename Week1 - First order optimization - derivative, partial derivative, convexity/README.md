@@ -12,6 +12,16 @@ This week's coding challenge is to implement gradient descent to find the line o
 * pandas (read the dataset)
 * matplotlib (plotting)
 
+## Live Plots
+
+From the Github view of Jupyter Notebooks it's not possible to view the live plots, well, live. Just the last snapshot of the live plot is shown. To enjoy the live plot it is necessary to download the Jupyter Notebook and run it locally (If there's another way, tell me please :))
+
+You can recognise a live plot with the presence of 
+```
+%matplotlib notebook
+```
+in the cell, that enables some matplotlib interactive features.
+
 ## Data
 
 That's the least relevant thing but <a href="https://www.kaggle.com/reagentx/HLTVData">"CS:GO Dataset"</a> has been chosen.
