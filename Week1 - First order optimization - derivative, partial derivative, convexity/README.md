@@ -9,8 +9,16 @@ This week's coding challenge is to implement gradient descent to find the line o
 
 ## Dependencies for Full Notebook
 
-* pandas (To read the dataset)
-* matplotlib (Plotting)
+* pandas (read the dataset)
+* matplotlib (plotting)
+
+## Data
+
+That's the least relevant thing but <a href="https://www.kaggle.com/reagentx/HLTVData">"CS:GO Dataset"</a> has been chosen.
+
+From file 'ADRvsRating.csv' has been chosen the variables:
+ - **ADR** : Average damage per round
+ - **Rating** : HLTV Rating 2.0
 
 ## Overview/Summary
 
