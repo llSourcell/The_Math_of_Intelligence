@@ -1,7 +1,9 @@
 ## Coding Challenge -- Due Date, Thursday June 22nd, 2017
 
 This week's coding challenge is to implement **gradient descent** to find the line of best fit that predicts the relationship between
-2 variables of your choice from a [kaggle](https://www.kaggle.com/datasets) dataset. By <a href="https://github.com/llSourcell/The_Math_of_Intelligence">Siraj Raval</a>
+2 variables of your choice from a [kaggle](https://www.kaggle.com/datasets) dataset. By <a href="https://github.com/llSourcell/The_Math_of_Intelligence">Siraj Raval.</a>
+
+The submission file is: <a href="https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1/demo.ipynb">demo.ipynb</a>
 
 ## Dependencies for challenge
 
@@ -38,7 +40,7 @@ In this notebook, besides coding a **Gradient Descent** algorithm, other tasks a
 
 An overview of the data is done
 
-![Data](https://github.com/alberduris/The_Math_of_Intelligence/raw/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/data.png)
+![Data](https://github.com/alberduris/The_Math_of_Intelligence/raw/master/Week1/resources/data.png)
 
 
 ### SSE - Sum of Squared Error
@@ -62,25 +64,25 @@ def SSE(m,b,data):
 
 An overview of the data with a fitting line
 
-![Data plus fitting line](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/data_line.png)
+![Data plus fitting line](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1/resources/data_line.png)
 
 ### 3D Visualize Gradient Descent 
 
 Each point in this two-dimensional space represents a line. The height of the function at each point is the error value for that line.
 
-![Gradient Descent](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/gradient_descent_1.png)
+![Gradient Descent](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1/resources/gradient_descent_1.png)
 
 ### Live plot - Gradient Search & Intermediate lines
 
 The current location of the **gradient descent search** and the path taken to get there and the **corresponding line** for the current search location. 
 
-![Gradient Search & Intermediate Lines](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/live_plot_gs_il.png)
+![Gradient Search & Intermediate Lines](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1/resources/live_plot_gs_il.png)
 
 ### Live plot - Error
 
 The error changing as we move toward the minimum.
 
-![Error](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1%20-%20First%20order%20optimization%20-%20derivative%2C%20partial%20derivative%2C%20convexity/resources/live_error.png)
+![Error](https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week1/resources/live_error.png)
 
 ### References
 
