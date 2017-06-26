@@ -18,7 +18,7 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 7 - Parameter estimation - expectation maximization, bayes vs frequentist, maximum likelihood estimation
  XGBoost 
 ## Week 8 - Types of Probability - joint, conditional, bayes rule, chain rule 
- The Fundamental Theorem of Linear Algebra)
+ The Fundamental Theorem of Linear Algebra
 ## Week 9 - T-SNE 
  Naive Bayes Classification
 ## Week 10 - Sampling -MCMC, Gibbs, Slice
