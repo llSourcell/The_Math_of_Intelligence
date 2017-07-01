@@ -1,4 +1,4 @@
-## Coding Challenge -- Submission not applied to challenge
+## Coding Challenge -- Not submitted to challenge
 
 This week's coding challenge is to implement **Newton's Method for optimization**. By <a href="https://github.com/llSourcell/The_Math_of_Intelligence">Siraj Raval.</a>
 
