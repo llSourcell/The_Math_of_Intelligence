@@ -17,7 +17,7 @@ This repository is for the code relative to each week's **short video**
 
 ### Week 6 - Probability terms - Random variables,Expectations,Variance 
 
-### Week 7 - Parameter estimation - expectation maximization, bayes vs frequentist, maximum likelihood estimation
+### Week 7 - Param estimation - EM, bayes vs frequentist, maximum likelihood estimation
 
 ### Week 8 - Types of Probability - joint, conditional, bayes rule, chain rule 
 
