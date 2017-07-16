@@ -12,7 +12,7 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 4 - Matrix operations - Dot product, matrix inverse, projections
  Convolutional Neural Network
 ## Week 5 - Dimensionality Reduction - matrix decomposition, eigenvectors, eigenvalues
- Principal Component Analysis 
+ Recurrent Neural Network
 ## Week 6 - Probability terms - Random variables,Expectations,Variance 
  Random Forests 
 ## Week 7 - Parameter estimation - expectation maximization, bayes vs frequentist, maximum likelihood estimation
