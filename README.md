@@ -13,18 +13,18 @@ Each week has a short video (released on Friday) and an associated longer video 
  Convolutional Neural Network
 ## Week 5 - Dimensionality Reduction - matrix decomposition, eigenvectors, eigenvalues
  Recurrent Neural Network
-## Week 6 - Probability terms - Random variables,Expectations,Variance 
+## Week 6 - Bayesian Probability - Bayesian vs Frequentist, Naive Bayes, Laplace Smoothing 
  Random Forests 
-## Week 7 - Parameter estimation - expectation maximization, bayes vs frequentist, maximum likelihood estimation
+ ## Week 7 - Popular Distributions - Bernoulli, uniform, multinomial
+ Gaussian Mixture Models
+## Week 8 - Hyperparameter Optimization - Bayesian Methods, Probabilistic Machine Learning
  XGBoost 
-## Week 8 - Types of Probability - joint, conditional, bayes rule, chain rule 
+## Week 9 - Types of Probability - Joint, Conditional 
  The Fundamental Theorem of Linear Algebra
-## Week 9 - T-SNE 
- Naive Bayes Classification
 ## Week 10 - Sampling -MCMC, Gibbs, Slice
  LDA
-## Week 11 - Popular Distributions - Bernoulli, uniform, multinomial
- Gaussian Mixture Models
-## Week 12 - Reinforcement - Markov chains, Monte Carlo, Markov Decision Processes
+## Week 11 - Reinforcement - Markov chains, Monte Carlo, Markov Decision Processes
  Game Bot 
+## Week 12 - Quantum Machine Learning
+Quantum Computing 
 
