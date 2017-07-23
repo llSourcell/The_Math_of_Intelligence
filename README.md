@@ -13,13 +13,13 @@ Each week has a short video (released on Friday) and an associated longer video 
  Convolutional Neural Network
 ## Week 5 - Dimensionality Reduction - matrix decomposition, eigenvectors, eigenvalues
  Recurrent Neural Network
-## Week 6 - Bayesian Probability - Bayesian vs Frequentist, Naive Bayes, Laplace Smoothing 
+## Week 6 - Probability Theory - Bayes Theorem, Naive Bayes, Laplace Smoothing 
  Random Forests 
- ## Week 7 - Popular Distributions - Bernoulli, uniform, multinomial
+ ## Week 7 - Hyperparameter Optimization - Bayesian vs Frequentist, Distributions, Bayesian Optimization
  Gaussian Mixture Models
-## Week 8 - Hyperparameter Optimization - Bayesian Methods, Probabilistic Machine Learning
+## Week 8 - Stochastic Models - Generative Networks, probabilistic node
  XGBoost 
-## Week 9 - Types of Probability - Joint, Conditional 
+## Week 9 - Types of Probability - Joint, Conditional, chain rule
  The Fundamental Theorem of Linear Algebra
 ## Week 10 - Sampling -MCMC, Gibbs, Slice
  LDA
