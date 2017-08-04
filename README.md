@@ -17,14 +17,9 @@ Each week has a short video (released on Friday) and an associated longer video 
  Random Forests 
  ## Week 7 - Hyperparameter Optimization - Bayesian vs Frequentist, Distributions, Bayesian Optimization
  Gaussian Mixture Models
-## Week 8 - Stochastic Models - Generative Networks, probabilistic node
+## Week 8 - Stochastic Models - Generative Networks, Latent Dirichlet Allocation, Topic Modeling
  XGBoost 
-## Week 9 - Types of Probability - Joint, Conditional, chain rule
- The Fundamental Theorem of Linear Algebra
-## Week 10 - Sampling -MCMC, Gibbs, Slice
- LDA
-## Week 11 - Reinforcement - Markov chains, Monte Carlo, Markov Decision Processes
+## Week 9 - Reinforcement - Markov chains, Monte Carlo, Markov Decision Processes
  Game Bot 
-## Week 12 - Quantum Machine Learning
-Quantum Computing 
+## Week 10 - Quantum Machine Learning
 
