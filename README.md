@@ -18,7 +18,7 @@ Each week has a short video (released on Friday) and an associated longer video 
  ## Week 7 - Hyperparameter Optimization - Bayesian vs Frequentist, Distributions, Bayesian Optimization
  Gaussian Mixture Models
 ## Week 8 - Stochastic Models - Generative Networks, Latent Dirichlet Allocation, Topic Modeling
- XGBoost 
+ LSTM Networks
 ## Week 9 - Reinforcement - Markov chains, Monte Carlo, Markov Decision Processes
  Game Bot 
 ## Week 10 - Quantum Machine Learning
